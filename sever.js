@@ -1,4 +1,3 @@
-<tbody>
 <tr>
          <td class="flag"></td>
          <td class="bold left plusIconTd noWrap elp"><b><span style="font-family: &quot;verdana&quot; , sans-serif;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gold-Jun</font></font></span></b></td>
@@ -187,4 +186,3 @@
       <td class="pid-1013442-time" data-value="1573817399"><b><span style="font-family: &quot;verdana&quot; , sans-serif;">0:00</span></b></td>
         </tr>-->
 
-</tbody>
